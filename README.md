@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<img align="right" src="https://gifdb.com/gif/studio-ghibli-ponyo-v9jpa1ec5jhsa2xq.html" width="300"/>
+<img align="right" src="[https://gifdb.com/gif/studio-ghibli-ponyo-v9jpa1ec5jhsa2xq.html](https://gifdb.com/images/high/studio-ghibli-ponyo-v9jpa1ec5jhsa2xq.webp)" width="300"/>
 👋 Hi, I'm CHORK RATANAKDAVID<br><br>🎓 I’m currently a 4th-year student at ITC with a strong passion for web development.<br>💻 I enjoy building responsive, user-friendly, and modern web applications.<br>🚀I’m actively looking for job opportunities where I can apply my skills, grow as a developer, and contribute to meaningful projects.<br>📫 Thank you for visiting my profile! Feel free to connect with me.
 
 
