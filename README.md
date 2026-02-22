@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm CHORK RATANAKDAVID👋
 
 <!--
 **Ratanakdavid/Ratanakdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-<img align="right" src="https://imgs.search.brave.com/tUCMOvT1VNNaSDXJOARQlnLnoKqkfRaGQCXZrxcUAhs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/LTFEQmFrdWp2eU1B/QUFBTS9naXl1LXdh/dGVyLWJyZWF0aGlu/Zy5naWY.gif" width="500"/>
-👋 Hi, I'm CHORK RATANAKDAVID<br><br>🎓 I’m currently a 4th-year student at ITC with a strong passion for web development.<br>💻 I enjoy building responsive, user-friendly, and modern web applications.<br>🚀I’m actively looking for job opportunities where I can apply my skills, grow as a developer, and contribute to meaningful projects.<br>📫 Thank you for visiting my profile! Feel free to connect with me.
+<img align="right" src="https://imgs.search.brave.com/tUCMOvT1VNNaSDXJOARQlnLnoKqkfRaGQCXZrxcUAhs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/LTFEQmFrdWp2eU1B/QUFBTS9naXl1LXdh/dGVyLWJyZWF0aGlu/Zy5naWY.gif" width="450"/>
+<br>🎓 I’m currently a 4th-year student at ITC with a strong passion for web development.<br>💻 I enjoy building responsive, user-friendly, and modern web applications.<br>🚀I’m actively looking for job opportunities where I can apply my skills, grow as a developer, and contribute to meaningful projects.<br>📫 Thank you for visiting my profile! Feel free to connect with me.
 
 
 ## 🌐 Socials:
