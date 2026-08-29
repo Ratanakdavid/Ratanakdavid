@@ -1,5 +1,9 @@
 ## Hi I'm CHORK RATANAKDAVID👋
 
+<!--
+**Ratanakdavid/Ratanakdavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 # 💫 About Me:
 <img align="right" src="https://imgs.search.brave.com/tUCMOvT1VNNaSDXJOARQlnLnoKqkfRaGQCXZrxcUAhs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/LTFEQmFrdWp2eU1B/QUFBTS9naXl1LXdh/dGVyLWJyZWF0aGlu/Zy5naWY.gif" width="450"/>
 <br>I’m currently a 4th-year student at ITC with a strong passion for web development.<br> I enjoy building responsive, user-friendly, and modern web applications.<br>I’m actively looking for job opportunities where I can apply my skills, grow as a developer, and contribute to meaningful projects.<br>Thank you for visiting my profile! Feel free to connect with me.
@@ -23,12 +27,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ratanakdavid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ratanakdavid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratanakdavid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ratanakdavid&icon=0&color=0)](https://visitcount.itsvg.in)
